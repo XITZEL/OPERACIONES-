@@ -1,0 +1,17 @@
+C:\Users\Karla-PFSL\source\repos\OPERACIONE\bin\Debug\OPERACIONE.exe.config
+C:\Users\Karla-PFSL\source\repos\OPERACIONE\bin\Debug\OPERACIONE.exe
+C:\Users\Karla-PFSL\source\repos\OPERACIONE\bin\Debug\OPERACIONE.pdb
+C:\Users\Karla-PFSL\source\repos\OPERACIONE\bin\Debug\EjemploDLL.dll
+C:\Users\Karla-PFSL\source\repos\OPERACIONE\bin\Debug\EjemploDLL.pdb
+C:\Users\Karla-PFSL\source\repos\OPERACIONE\obj\Debug\OPERACIONE.csproj.AssemblyReference.cache
+C:\Users\Karla-PFSL\source\repos\OPERACIONE\obj\Debug\OPERACIONE.Properties.Resources.resources
+C:\Users\Karla-PFSL\source\repos\OPERACIONE\obj\Debug\OPERACIONE.csproj.GenerateResource.cache
+C:\Users\Karla-PFSL\source\repos\OPERACIONE\obj\Debug\OPERACIONE.csproj.CoreCompileInputs.cache
+C:\Users\Karla-PFSL\source\repos\OPERACIONE\obj\Debug\OPERACIONE.csproj.CopyComplete
+C:\Users\Karla-PFSL\source\repos\OPERACIONE\obj\Debug\OPERACIONE.exe
+C:\Users\Karla-PFSL\source\repos\OPERACIONE\obj\Debug\OPERACIONE.pdb
+C:\Users\Karla-PFSL\source\repos\OPERACIONE\bin\Debug\OPERACIONE.exe.manifest
+C:\Users\Karla-PFSL\source\repos\OPERACIONE\bin\Debug\OPERACIONE.application
+C:\Users\Karla-PFSL\source\repos\OPERACIONE\obj\Debug\OPERACIONE.Calculadora.resources
+C:\Users\Karla-PFSL\source\repos\OPERACIONE\obj\Debug\OPERACIONE.exe.manifest
+C:\Users\Karla-PFSL\source\repos\OPERACIONE\obj\Debug\OPERACIONE.application

@@ -1,0 +1,6 @@
+C:\Users\Karla-PFSL\source\repos\EjemploDLL\bin\Debug\EjemploDLL.dll
+C:\Users\Karla-PFSL\source\repos\EjemploDLL\bin\Debug\EjemploDLL.pdb
+C:\Users\Karla-PFSL\source\repos\EjemploDLL\obj\Debug\EjemploDLL.csproj.AssemblyReference.cache
+C:\Users\Karla-PFSL\source\repos\EjemploDLL\obj\Debug\EjemploDLL.csproj.CoreCompileInputs.cache
+C:\Users\Karla-PFSL\source\repos\EjemploDLL\obj\Debug\EjemploDLL.dll
+C:\Users\Karla-PFSL\source\repos\EjemploDLL\obj\Debug\EjemploDLL.pdb
